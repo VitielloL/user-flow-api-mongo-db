@@ -1,4 +1,4 @@
-# user-flow-api-mongo
+# user-flow-api-mongo-db
 
 Uma API REST simples e eficiente para gerenciamento de usuários, construída com **Node.js**, **Express** e **MongoDB**.
 
